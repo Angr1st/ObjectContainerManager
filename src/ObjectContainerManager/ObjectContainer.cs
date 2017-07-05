@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
-namespace ObjectContainerManager
+namespace DynamicObjectContainerManager
 {
-    public class ObjectContainer:IObjectContainer
+    [Serializable]
+    public class ObjectContainer : IObjectContainer
     {
         private IKey _key;
         private Object _object;
@@ -14,7 +15,7 @@ namespace ObjectContainerManager
             }
         }
 
-       public Object MyObject
+        public Object MyObject
         {
             get
             {
@@ -23,8 +24,8 @@ namespace ObjectContainerManager
         }
         public ObjectContainer(Object leObject, IKey myKey)
         {
-_object = leObject;
-_key = myKey;
+            _object = leObject;
+            _key = myKey;
         }
     }
 }

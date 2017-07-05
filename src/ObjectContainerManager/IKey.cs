@@ -1,6 +1,6 @@
 using System;
 
-namespace ObjectContainerManager
+namespace DynamicObjectContainerManager
 {
     public interface IKey
     {
@@ -16,5 +16,10 @@ namespace ObjectContainerManager
           {
               get;
           }
+
+        bool IsSearchKey
+        {
+            get;
+        }
     }
 }

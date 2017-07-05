@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace ObjectContainerManager
+namespace DynamicObjectContainerManager
 {
     public interface IObjectContainer
     {
