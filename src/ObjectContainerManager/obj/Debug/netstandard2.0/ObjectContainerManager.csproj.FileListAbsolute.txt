@@ -1,0 +1,7 @@
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\obj\Debug\netstandard2.0\ObjectContainerManager.csprojResolveAssemblyReference.cache
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\obj\Debug\netstandard2.0\ObjectContainerManager.csproj.CoreCompileInputs.cache
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\bin\Debug\netstandard2.0\ObjectContainerManager.deps.json
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\bin\Debug\netstandard2.0\ObjectContainerManager.dll
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\bin\Debug\netstandard2.0\ObjectContainerManager.pdb
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\obj\Debug\netstandard2.0\ObjectContainerManager.dll
+C:\Users\tclasenlocal\Source\Repos\ObjectContainerManager\src\ObjectContainerManager\obj\Debug\netstandard2.0\ObjectContainerManager.pdb

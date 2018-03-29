@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>ObjectContainerManager Class Library</Description>
+    <Authors>Torben Clasen</Authors>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <Copyright>Copyright © Torben Clasen 2018</Copyright>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+</Project>
