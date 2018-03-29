@@ -6,6 +6,10 @@
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <Copyright>Copyright © Torben Clasen 2018</Copyright>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <RepositoryUrl>https://github.com/Angr1st/ObjectContainerManager.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/Angr1st/ObjectContainerManager</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Angr1st/ObjectContainerManager/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>

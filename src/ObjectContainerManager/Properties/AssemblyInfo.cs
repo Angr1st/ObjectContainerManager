@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ObjectContainerManager")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("You can use this to store state and serialize it in a binary form. Then pass that to another instance of your application and pick up from where the other instance left off.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ObjectContainerManager")]
