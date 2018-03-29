@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ObjectContainerManager")]
 [assembly: AssemblyDescription("You can use this to store state and serialize it in a binary form. Then pass that to another instance of your application and pick up from where the other instance left off.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Torben Clasen")]
 [assembly: AssemblyProduct("ObjectContainerManager")]
 [assembly: AssemblyCopyright("Copyright © Torben Clasen 2018")]
 [assembly: AssemblyTrademark("")]
