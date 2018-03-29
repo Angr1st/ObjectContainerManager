@@ -4,3 +4,4 @@
 ![![NuGet](https://img.shields.io/nuget/v/ObjectContainerManager.svg)](https://www.nuget.org/packages/ObjectContainerManager/)
 
 A Nuget Package that lets you store objects and serialize them, into binary, to pass them somewhere.
+Use `Install-Package ObjectContainerManager` to install.
